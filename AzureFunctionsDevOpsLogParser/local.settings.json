@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureDevOpsPat": "Personal access tokenÅABuild (Read)",
+    "AzureDevOpsHost": "dev.azure.com",
+    "AzureDevOpsOrganization": "Your Organization",
+    "AzureDevOpsProject": "Your Project"
+  }
+}
